@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "shams medhat",
+      "role": "admin",
+      "points": null
+    },
+    {
+      "id": 2,
+      "name": "khaled hassan",
+      "role": "admin",
+      "points": null
+    }
+  ]
+}
